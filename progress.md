@@ -3,10 +3,27 @@
 ## About
 Following Asabeneh's 30 Days of Python challenge to build a foundation for AI engineering.
 
-- **Started:** [today's date]
+- **Started:** 20/052026
 - **Goal:** Become an AI Engineer
 - **Current Phase:** Phase 1 — Python Fundamentals
 - **Study Routine:** Read → Type → Break → Fix → Apply
+
+---
+
+## Day 2 — Variables Builtin Function
+**Date completed:** 20/05/2026
+
+**What clicked:**
+- Stuff that i previously learn before like declaring variable and stuff
+- Simple function like len etc
+- We can find the keyword in python using help
+**Still fuzzy:**
+- (write anything here that's still unclear)
+
+**Code I wrote:**
+- Building simple variable like name country and etc
+- Taking user input
+- Using help to find python built in keywords
 
 ---
 
